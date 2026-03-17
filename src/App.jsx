@@ -22,7 +22,6 @@ function App() {
             rel="noopener noreferrer"
           >
             Learn React
-            อีหยก
           </a>
         </p>
       </header>
