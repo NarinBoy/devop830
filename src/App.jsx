@@ -5,9 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="Winnnnnnnnnnnnnnnnnnnnnnnnn.jpg" className="App-logo" alt="logo" />
-        <p>
-          I <span className="heart">♥️</span> Win
-        </p>
+        <p>I <span className="heart">♥️</span> Winn</p>
         <p className='name'>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate distinctio, ducimus saepe excepturi adipisci eveniet delectus accusamus atque ad sint blanditiis iure nesciunt repudiandae debitis iste et modi id harum?
         </p>
